@@ -1,4 +1,5 @@
-# Happy or Sad? Sentiment Classification using CNNs
+# Happy or Sad? 
+## Sentiment Classification using CNNs
 
 This notebook demonstrates the classification of facial expressions into "happy" or "sad" categories using Convolutional Neural Networks (CNNs). The project involves:
 
